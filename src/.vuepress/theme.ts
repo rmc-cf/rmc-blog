@@ -5,7 +5,7 @@ import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://rmc-cf.github.io/",
-
+  favicon:"https://avatars.githubusercontent.com/u/192405856?v=4",
   author: {
     name: "Rmc",
     url: "https://mister-hope.com",
