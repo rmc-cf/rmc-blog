@@ -2,7 +2,7 @@
 home: true
 layout: Blog
 icon: house
-title: 博客主页
+title: 主页
 heroImage: https://avatars.githubusercontent.com/u/192405856?v=4
 heroText: 若迷尘的博客
 heroFullScreen: true
