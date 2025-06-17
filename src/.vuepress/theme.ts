@@ -4,16 +4,16 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://rmc-cf.github.io/",
 
   author: {
-    name: "Mr.Hope",
+    name: "Rmc",
     url: "https://mister-hope.com",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://avatars.githubusercontent.com/u/192405856?v=4",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "rmc-cf/rmc-blog",
 
   docsDir: "src",
 

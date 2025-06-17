@@ -3,8 +3,8 @@ home: true
 layout: Blog
 icon: house
 title: Blog Home
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: The name of your blog
+heroImage: https://avatars.githubusercontent.com/u/192405856?v=4
+heroText: Rmc home
 tagline: You can put your slogan here
 heroFullScreen: true
 projects:
