@@ -61,7 +61,7 @@ export default hopeTheme({
     "/": {
       // navbar
       navbar: enNavbar,
-
+      author:'Rmc',
       // sidebar
       sidebar: enSidebar,
 
@@ -85,6 +85,7 @@ export default hopeTheme({
     "/zh/": {
       // navbar
       navbar: zhNavbar,
+      author:'若迷尘',
 
       // sidebar
       sidebar: zhSidebar,
@@ -105,18 +106,6 @@ export default hopeTheme({
     },
   },
 
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": {
-        hint: "Password: 1234",
-        password: "1234",
-      },
-      "/zh/demo/encrypt.html": {
-        hint: "Password: 1234",
-        password: "1234",
-      },
-    },
-  },
 
   // enable it to preview all changes in time
   // hotReload: true,
