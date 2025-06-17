@@ -3,10 +3,10 @@ home: true
 layout: Blog
 icon: house
 title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroImage: https://avatars.githubusercontent.com/u/192405856?v=4
+heroText: 若迷尘的博客
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 戏子无名
 footer: 戏子无名
 ---
 
