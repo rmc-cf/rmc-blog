@@ -65,7 +65,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "The actor is unknown",
 
       displayFooter: true,
 
@@ -90,7 +90,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "戏子无名",
 
       displayFooter: true,
 

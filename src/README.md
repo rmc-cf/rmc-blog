@@ -9,7 +9,7 @@ bgImageDark: /assets/bg.jpg
 bgImageStyle:
   background-attachment: fixed
 heroText: Rmc
-tagline: You can put your slogan here
 heroFullScreen: true
-footer: 戏子无名
+tagline: The actor is unknown
+footer: The actor is unknown
 ---
