@@ -8,6 +8,11 @@ export const enSidebar = sidebar({
       icon: "book",
       prefix: "posts/",
       children: "structure",
+    }, {
+      text: "life",
+      icon: "life-ring",
+      prefix: "life/",
+      children: "structure",
     },
     "intro",
   ],
