@@ -5,7 +5,7 @@ import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://rmc-cf.github.io/",
-  favicon:"https://avatars.githubusercontent.com/u/192405856?v=4",
+  favicon: "https://avatars.githubusercontent.com/u/192405856?v=4",
   author: {
     name: "Rmc",
     url: "https://mister-hope.com",
@@ -61,7 +61,7 @@ export default hopeTheme({
     "/": {
       // navbar
       navbar: enNavbar,
-      author:'Rmc',
+      author: 'Rmc',
       // sidebar
       sidebar: enSidebar,
 
@@ -85,7 +85,7 @@ export default hopeTheme({
     "/zh/": {
       // navbar
       navbar: zhNavbar,
-      author:'若迷尘',
+      author: '若迷尘',
 
       // sidebar
       sidebar: zhSidebar,
@@ -186,10 +186,14 @@ export default hopeTheme({
     // Install @waline/client before enabling it
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
-    // comment: {
-    //   provider: "Waline",
-    //   serverURL: "https://waline-comment.vuejs.press",
-    // },
+    comment: {
+      provider: "Giscus",
+      comment: true,
+        repo: 'rmc-cf/blog-comment',
+        repoId: "R_kgDOO-te_Q",
+        category: "Announcements",
+        categoryId: "DIC_kwDOO-te_c4CrvRo"
+    },
 
     components: {
       components: ["Badge", "VPCard"],
